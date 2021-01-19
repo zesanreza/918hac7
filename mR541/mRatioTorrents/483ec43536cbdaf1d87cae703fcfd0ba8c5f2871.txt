@@ -1,0 +1,53 @@
+[1/19/2021 6:44:27 PM] Torrent data and settings loaded.
+[1/19/2021 6:44:27 PM] Torrent settings saved.
+[1/19/2021 6:44:35 PM] Torrent starting by user request ...
+[1/19/2021 6:44:35 PM] Creating START announce ...
+[1/19/2021 6:44:35 PM] Establishing a connection ... siena.crazyhd.com
+[1/19/2021 6:44:35 PM] Sending data ... GET /announce.php?pid=9cf8698d45de51153bd4bdfc1d306c62&info_hash=H%3e%c456%cb%da%f1%d8%7c%aep%3f%cf%d0%ba%8c_%28q&peer_id=-qB3200-qof(G5vlsCX~&port=21670&uploaded=0&downloaded=0&left=0&corrupt=0&key=B488CAEB&event=started&numwant=200&compact=1&no_peer_id=1&supportcrypto=1&redundant=0 HTTP/1.1
+Host: siena.crazyhd.com
+User-Agent: qBittorrent v3.2.0
+Accept-Encoding: gzip
+Connection: close
+
+ 
+[1/19/2021 6:44:35 PM] Receiving data ...
+[1/19/2021 6:44:37 PM] Now seeding ...
+[1/19/2021 6:44:37 PM] Torrent settings saved.
+[1/19/2021 6:47:02 PM] The torrent is stopping ...
+[1/19/2021 6:47:02 PM] Creating STOP announce ...
+[1/19/2021 6:47:02 PM] Establishing a connection ... siena.crazyhd.com
+[1/19/2021 6:47:02 PM] Sending data ... GET /announce.php?pid=9cf8698d45de51153bd4bdfc1d306c62&info_hash=H%3e%c456%cb%da%f1%d8%7c%aep%3f%cf%d0%ba%8c_%28q&peer_id=-qB3200-qof(G5vlsCX~&port=21670&uploaded=36552704&downloaded=0&left=0&corrupt=0&key=B488CAEB&event=stopped&numwant=0&compact=1&no_peer_id=1&supportcrypto=1&redundant=0 HTTP/1.1
+Host: siena.crazyhd.com
+User-Agent: qBittorrent v3.2.0
+Accept-Encoding: gzip
+Connection: close
+
+ 
+[1/19/2021 6:47:02 PM] Receiving data ...
+[1/19/2021 6:47:04 PM] Torrent is now stopped.
+[1/19/2021 6:47:04 PM] Torrent settings saved.
+[1/19/2021 6:47:53 PM] Torrent starting by user request ...
+[1/19/2021 6:47:53 PM] Creating START announce ...
+[1/19/2021 6:47:53 PM] Establishing a connection ... siena.crazyhd.com
+[1/19/2021 6:47:53 PM] Sending data ... GET /announce.php?pid=9cf8698d45de51153bd4bdfc1d306c62&info_hash=H%3e%c456%cb%da%f1%d8%7c%aep%3f%cf%d0%ba%8c_%28q&peer_id=-qB3200-qof(G5vlsCX~&port=21670&uploaded=0&downloaded=0&left=0&corrupt=0&key=B488CAEB&event=started&numwant=200&compact=1&no_peer_id=1&supportcrypto=1&redundant=0 HTTP/1.1
+Host: siena.crazyhd.com
+User-Agent: qBittorrent v3.2.0
+Accept-Encoding: gzip
+Connection: close
+
+ 
+[1/19/2021 6:47:53 PM] Receiving data ...
+[1/19/2021 6:47:55 PM] Now seeding ...
+[1/19/2021 6:47:55 PM] Torrent settings saved.
+[1/19/2021 7:17:56 PM] Creating UPDATE announce ...
+[1/19/2021 7:17:56 PM] Establishing a connection ... siena.crazyhd.com
+[1/19/2021 7:17:56 PM] Sending data ... GET /announce.php?pid=9cf8698d45de51153bd4bdfc1d306c62&info_hash=H%3e%c456%cb%da%f1%d8%7c%aep%3f%cf%d0%ba%8c_%28q&peer_id=-qB3200-qof(G5vlsCX~&port=21670&uploaded=470597632&downloaded=0&left=0&corrupt=0&key=B488CAEB&numwant=200&compact=1&no_peer_id=1&supportcrypto=1&redundant=0 HTTP/1.1
+Host: siena.crazyhd.com
+User-Agent: qBittorrent v3.2.0
+Accept-Encoding: gzip
+Connection: close
+
+ 
+[1/19/2021 7:17:56 PM] Receiving data ...
+[1/19/2021 7:17:58 PM] Now seeding ...
+[1/19/2021 7:17:58 PM] Torrent settings saved.

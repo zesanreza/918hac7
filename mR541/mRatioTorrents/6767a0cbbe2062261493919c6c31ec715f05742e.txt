@@ -1,0 +1,15 @@
+[1/19/2021 6:57:47 PM] Torrent data and settings loaded.
+[1/19/2021 6:57:47 PM] Torrent settings saved.
+[1/19/2021 6:57:55 PM] Torrent starting by user request ...
+[1/19/2021 6:57:55 PM] Creating START announce ...
+[1/19/2021 6:57:55 PM] Establishing a connection ... siena.crazyhd.com
+[1/19/2021 6:57:55 PM] Sending data ... GET /announce.php?pid=9cf8698d45de51153bd4bdfc1d306c62&info_hash=gg%a0%cb%be%20b%26%14%93%91%9cl1%ecq_%05t.&peer_id=M7-2-1--%d6b%fb%b5%14%a6%b0%9f%81%03%f5D&port=21670&uploaded=0&downloaded=0&left=0&corrupt=0&key=35814459&event=started&numwant=200&compact=1&no_peer_id=1 HTTP/1.1
+Host: siena.crazyhd.com
+User-Agent: BitTorrent/7210(25302)
+Accept-Encoding: gzip
+Connection: Close
+
+ 
+[1/19/2021 6:57:55 PM] Receiving data ...
+[1/19/2021 6:57:57 PM] Now seeding ...
+[1/19/2021 6:57:57 PM] Torrent settings saved.
