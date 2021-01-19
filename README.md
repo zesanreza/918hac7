@@ -1,1 +1,0 @@
-# Aata-Gache-Tota-Pakhi
